@@ -1,12 +1,12 @@
 Backend Technologies:
 - Language: C#
-- Backend Framework: ASP.NET Core 5
+- Framework: ASP.NET Core 5
 - Architectural Style: REST API
-- Database: MSSQL
+- Database: MSSQL 2019
 - Database Provider: EF Core 5
 
 
-Frontend Technologies:
+Frontend Technologies/Tools:
 - Html
 - Css
 - Javascript
