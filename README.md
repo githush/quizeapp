@@ -22,3 +22,4 @@ Web Application consists of 3 layers:
 
 
 Hosted Application: http://khvicha-001-site3.dtempurl.com
+Backup of the Database: https://github.com/githush/quizeapp-databasebackup
