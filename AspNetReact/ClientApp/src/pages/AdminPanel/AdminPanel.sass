@@ -1,0 +1,147 @@
+.admin-panel__dstatus
+  font-size: 20px
+
+.admin-panel-wr
+  
+
+.admin-panel
+  max-width: 1700px
+  margin: 0 auto
+  padding: 30px 0
+
+
+
+
+.admin-top
+  margin: 0 0 30px 0
+  display: flex 
+  flex-flow: row nowrap
+  justify-content: space-between
+  align-items: flex-end
+
+
+.admin-input-wr
+  display: grid 
+  grid-template-columns: 1fr
+  grid-gap: 10px
+  margin: 0 0 30px 0
+
+  input 
+    display: block
+    width: 100%
+    padding: 15px 15px
+    background: #261F2D
+    font-size: 15px
+    border-radius: 3px
+    color: #fff 
+    border: none 
+    
+
+    &::placeholder 
+      color: #fff 
+
+.admin__clear-btn
+  background: #2c2b2d
+  font-size: 15px
+
+.admin__sort-btn 
+  font-size: 15px
+  background: #2c2b2d
+
+
+.admin-top__right
+
+
+
+
+
+
+
+.admin-reg-btn
+  background: #005DFF
+  color: #fff
+  border-radius: 1px
+  border: none
+  outline: none
+  cursor: pointer
+  transition: background 300ms
+  font-size: 16px
+  display: inline-block
+  border-radius: 2px
+  padding: 10px 15px
+
+
+
+.admin-bottom
+  // background: #fff 
+  padding: 20px
+
+
+.adming-title
+  font-size: 25px
+  margin: 0 0 20px 0
+  padding: 20px 
+
+
+
+.admin-list
+
+
+.admin-list-item
+  background: #261F2D
+  border-radius: 4px
+  padding: 12px 10px 12px 15px
+  
+
+  & + & 
+    margin: 20px 0 0 0
+
+.admin-list-item-lnk
+  display: block 
+  position: relative
+  color: #fff 
+
+
+  span 
+    display: block 
+    margin: 0 0 10px 0
+
+  a 
+    color: var(--pink)
+
+
+.admin-list-item-name
+  font-size: 17px
+  margin: 0 0 10px 0
+
+
+
+.admin-list-item-type
+  display: block 
+  
+.admin-list-item-status
+  position: absolute
+  right: 10px
+  top: calc(50% - 15px)
+  background: #009688
+  padding: 5px 10px 4px 10px
+  text-align: center 
+  font-size: 14px
+  border-radius: 4px
+  box-sizing: border-box
+  min-width: 134px
+
+
+  &.inactive
+    background: var(--red)
+
+
+
+@media screen and ( min-width: 768px )
+  .admin-input-wr
+    grid-template-columns: 1fr 125px 210px
+
+  .admin-panel
+    padding: 50px 20px
+
+  

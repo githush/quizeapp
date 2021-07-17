@@ -1,0 +1,60 @@
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csprojAssemblyReference.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CopyComplete
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csprojAssemblyReference.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CopyComplete
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.deps.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.AssemblyReference.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfoInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfo.cs
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CoreCompileInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CopyComplete
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.deps.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\bin\Debug\net5.0\AspNetReact.Models.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.AssemblyInfo.cs
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.csproj.CopyComplete
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\ref\AspNetReact.DataAccess.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.DataAccess\obj\Debug\net5.0\AspNetReact.DataAccess.pdb

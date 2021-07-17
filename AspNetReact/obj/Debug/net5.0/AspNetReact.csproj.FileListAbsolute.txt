@@ -1,0 +1,277 @@
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\appsettings.Development.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\appsettings.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.exe
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.dev.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.csprojAssemblyReference.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.Manifest.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.xml
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\scopedcss\bundle\AspNetReact.styles.css
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.RazorTargetAssemblyInfo.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CopyComplete
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\obj\Debug\net5.0\AspNetReact.genruntimeconfig.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Humanizer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AutoMapper.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Humanizer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csprojAssemblyReference.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.Manifest.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.xml
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\scopedcss\bundle\AspNetReact.styles.css
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.RazorTargetAssemblyInfo.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\appsettings.Development.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\appsettings.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.exe
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.dev.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CopyComplete
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.genruntimeconfig.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\appsettings.Development.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\appsettings.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.StaticWebAssets.xml
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.exe
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.deps.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.dev.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Humanizer.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.AssemblyReference.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfoInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfo.cs
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CoreCompileInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.Manifest.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\scopedcss\bundle\AspNetReact.styles.css
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.RazorTargetAssemblyInfo.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CopyComplete
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\ref\AspNetReact.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.genruntimeconfig.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ClientApp - Copy\build\asset-manifest.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ClientApp - Copy\build\manifest.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ClientApp - Copy\package-lock.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ClientApp - Copy\package.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact\bin\Debug\net5.0\ClientApp - Copy\public\manifest.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\appsettings.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.StaticWebAssets.xml
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.exe
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.deps.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.runtimeconfig.dev.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\ref\AspNetReact.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.DataAccess.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\bin\Debug\net5.0\AspNetReact.Models.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.AssemblyReference.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfoInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.AssemblyInfo.cs
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CoreCompileInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\staticwebassets\AspNetReact.StaticWebAssets.Manifest.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\scopedcss\bundle\AspNetReact.styles.css
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.RazorTargetAssemblyInfo.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.csproj.CopyComplete
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\ref\AspNetReact.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact\obj\Debug\net5.0\AspNetReact.genruntimeconfig.cache

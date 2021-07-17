@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AspNetReact.Models.Dtos
+{
+    public class UpdateQuoteDto
+    {
+        [Required]
+        public int? Id { get; set; }
+        [Required]
+        public string Text { get; set; }
+        [Required]
+        public int? AuthorId { get; set; }
+    }
+}

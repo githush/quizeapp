@@ -1,0 +1,63 @@
+.register
+  background: var(--blue) 
+  display: flex 
+  min-height: 100vh
+
+.register__content
+  margin: auto 
+  background: #fff 
+  padding: 30px
+  width: calc(100% - 20px)
+  max-width: 400px
+  box-sizing: border-box
+  border-radius: 5px 
+
+.register__title
+  font-size: 25px
+  text-align: center 
+  margin: 0 0 25px 0
+
+.register__form
+  margin: 0 0 30px 0
+
+
+.register__inp-wr
+  margin: 0 0 15px 0
+
+  label 
+
+  input 
+
+
+  select 
+
+.register__submit
+  position: relative
+  background: var(--pink)
+  width: 100% 
+  border-radius: 4px
+  padding: 12px 0
+  font-size: 15px
+  margin: 10px 0 0 0
+
+  &:hover
+    background: #ca006f
+
+
+.register__spinner
+  position: absolute
+  right: 16px
+  top: 14px
+  font-size: 20px
+  animation: loginPending 300ms linear infinite
+
+  svg 
+    display: block 
+
+
+.register__footer
+  text-align: center 
+  font-size: 15px
+
+.register__back-lnk
+  color: var(--green)

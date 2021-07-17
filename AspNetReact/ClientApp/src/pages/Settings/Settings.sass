@@ -1,0 +1,68 @@
+.settings
+  padding: 30px 20px
+  max-width: 330px
+  margin: 50px auto 0 auto  
+  color: #fff 
+  background: #261F2D
+  border-radius: 4px
+  width: calc(100% - 20px)
+  box-sizing: border-box
+
+.settings__title
+  text-align: center 
+  margin: 0 0 20px 0
+
+.settings__switch-options
+  display: flex 
+  align-items: center 
+  gap: 15px
+  justify-content: center
+
+.settings__switch-option
+  color: #fff 
+  transition: color 300ms 
+
+
+  &.active 
+    color: #2196f3
+  
+.settings__switch
+  position: relative
+  display: inline-block
+  width: 60px
+  height: 34px
+
+
+
+
+
+.settings__switch-slider 
+  position: absolute
+  cursor: pointer
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  // background-color: #ccc
+  background-color: #2196F3
+
+  transition: .4s
+
+
+.settings__switch-slider:before 
+  position: absolute
+  content: ""
+  height: 26px
+  width: 26px
+  left: 4px
+  bottom: 4px
+  background-color: white
+  transition: .4s
+
+
+.settings__switch-slider.multiple
+  // background-color: #2196F3
+
+
+.settings__switch-slider.multiple::before 
+  transform: translateX(26px)

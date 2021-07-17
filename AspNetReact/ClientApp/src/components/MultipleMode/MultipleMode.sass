@@ -1,0 +1,85 @@
+.multiple-mode
+  background: #fff 
+  padding: 25px 20px 25px 20px
+  max-width: 540px
+  width: calc(100% - 20px)
+  box-sizing: border-box
+  margin: 0 auto
+  border-radius: 5px
+
+.multiple-mode__title
+  margin: 0 0 15px 0
+
+
+.multiple-mode__message
+  color: #009688 
+  margin: 0 0 20px 0
+
+  &.incorrect
+    color: var(--red)
+
+.multiple-mode__text
+  display: block 
+  background: var(--pink)
+  color: #fff 
+  border-radius: 5px
+  padding: 15px 15px
+  margin: 0 0 20px 0
+
+.multiple-mode__options
+  max-width: calc(100% - 50px)
+  margin: 0 auto 25px auto 
+
+.multiple-mode__option
+  background: #656565
+  color: #fff 
+  font-size: 15px
+  padding: 7px 10px
+  border-radius: 4px
+  cursor: pointer 
+  transition: background 300ms
+  user-select: none 
+  display: flex 
+  align-items: center 
+  gap: 5px
+
+
+  &:hover 
+    background: #404040
+
+
+  & + & 
+    margin: 10px 0 0 0
+
+  &.correct-answer
+    // color: green
+    background: var(--green)
+  &.incorrect-answer
+    background: var(--red)
+
+
+  svg 
+    font-size: 20px
+
+.multiple-mode__author
+  margin: 0 0 50px 0
+
+
+  span 
+    color: var(--pink) 
+
+.multiple-mode__nextbtn-wr
+  text-align: center 
+
+.multiple-mode__nextbtn
+  background: var(--green)
+  font-size: 15px
+  border-radius: 5px
+  padding: 8px 15px
+
+  transition: background 300ms
+
+  &:hover
+    background: #4b7320
+
+

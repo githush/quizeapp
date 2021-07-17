@@ -1,0 +1,47 @@
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\bin\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csprojAssemblyReference.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.deps.json
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\bin\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfoInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfo.cs
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csproj.CoreCompileInputs.cache
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\C#\Asp.Net Core 3.1 Important Projects\AspNetReact\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csprojAssemblyReference.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.deps.json
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\bin\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.pdb
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csproj.AssemblyReference.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfoInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfo.cs
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csproj.CoreCompileInputs.cache
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\ref\AspNetReact.Models.dll
+D:\IT Files\სივები\პროექტები სივისთვის\AspNetReact - patients management\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.deps.json
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\bin\Debug\net5.0\ref\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\bin\Debug\net5.0\AspNetReact.Models.pdb
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfoInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.AssemblyInfo.cs
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.csproj.CoreCompileInputs.cache
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\ref\AspNetReact.Models.dll
+C:\Users\Khvicha\Desktop\quiz app\Api\AspNetReact.Models\obj\Debug\net5.0\AspNetReact.Models.pdb

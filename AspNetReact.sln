@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetReact", "AspNetReact\AspNetReact.csproj", "{EFC5942A-83C5-46E1-BE59-25C223DB1C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetReact.DataAccess", "AspNetReact.DataAccess\AspNetReact.DataAccess.csproj", "{06855B85-F911-43B7-9F16-B1CC5CBA3A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetReact.Models", "AspNetReact.Models\AspNetReact.Models.csproj", "{4CBCC345-1260-47AF-90BD-8EBD1BBFE598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC5942A-83C5-46E1-BE59-25C223DB1C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC5942A-83C5-46E1-BE59-25C223DB1C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC5942A-83C5-46E1-BE59-25C223DB1C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC5942A-83C5-46E1-BE59-25C223DB1C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06855B85-F911-43B7-9F16-B1CC5CBA3A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06855B85-F911-43B7-9F16-B1CC5CBA3A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06855B85-F911-43B7-9F16-B1CC5CBA3A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06855B85-F911-43B7-9F16-B1CC5CBA3A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBCC345-1260-47AF-90BD-8EBD1BBFE598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBCC345-1260-47AF-90BD-8EBD1BBFE598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBCC345-1260-47AF-90BD-8EBD1BBFE598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBCC345-1260-47AF-90BD-8EBD1BBFE598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF103E1D-4349-48C2-AF01-4BFEE3037FED}
+	EndGlobalSection
+EndGlobal

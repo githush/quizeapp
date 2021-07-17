@@ -1,0 +1,124 @@
+* 
+  margin: 0
+  padding: 0
+  font-family: 'poppins'
+
+
+@font-face 
+  font-family: 'poppins'
+  src: url("./assets/fonts/Poppins-Regular.ttf")
+
+
+\:root
+  --blue: #080027
+  --red: #ff0544
+  --green: #6ba231
+  --pink: #ff058f
+
+body 
+  // background: #eff2f5
+  background: #111519
+
+select 
+  -moz-appearance: none
+  -webkit-appearance: none
+  appearance: none
+  border: none 
+  outline: none 
+  cursor: pointer
+
+ 
+
+label 
+  display: block 
+  margin: 0 0 10px 0
+  font-size: 15px
+
+select 
+  padding: 14px 15px
+  outline: none 
+  box-sizing: border-box
+  display: block
+  width: 100%
+  background: #fff 
+  font-size: 15px
+  border-radius: 3px
+  color: #0c0f3a
+  border: 1px solid #e8e8e8
+
+  &.is-invalid
+    border-color: #e91e63
+
+input
+  outline: none 
+  box-sizing: border-box
+  display: block
+  width: 100%
+  padding: 13px 15px
+  background: #fff 
+  font-size: 15px
+  border-radius: 3px
+  color: #0c0f3a
+  border: 1px solid #e8e8e8
+
+  &.is-invalid
+    border-color: #e91e63
+
+button 
+  border: none 
+  outline: none 
+  cursor: pointer
+  font-size: 16px
+  color: #fff
+  border-radius: 1px
+  border: none
+  outline: none
+  cursor: pointer
+  transition: background 300ms
+  font-size: 16px
+  display: inline-block
+  border-radius: 2px
+  padding: 10px 15px
+
+  &:focus
+    outline: none 
+
+
+ul, ol 
+  list-style: none 
+
+a 
+  text-decoration: none 
+
+
+textarea
+  border: none 
+  outline: none 
+  box-sizing: border-box
+  display: block
+  width: 100%
+  padding: 13px 15px
+  background: #fff 
+  font-size: 15px
+  border-radius: 3px
+  color: #0c0f3a
+  border: 1px solid #fff 
+  min-height: 200px
+  resize: none
+
+
+  &.is-invalid
+    border-color: #e91e63
+
+
+
+
+
+.Toastify__toast--success
+  background: #009688 !important
+  font-size: 15px !important
+
+
+.Toastify__toast--error
+  background: var(--red) !important
+  font-size: 15px !important

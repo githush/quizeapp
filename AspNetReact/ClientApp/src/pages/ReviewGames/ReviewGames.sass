@@ -1,0 +1,73 @@
+.review-game
+  padding: 30px 20px
+  max-width: 1700px
+  margin: 0 auto 
+
+
+.review-game__back
+  display: inline-block
+  margin: 0 0 20px 0
+  border-radius: 4px
+  background: #009688
+  padding: 10px 15px
+  color: #fff
+  font-size: 15px
+
+
+.review-game__list
+
+
+.review-game__list-item
+  position: relative
+  background: #261F2D
+  padding: 25px 140px 25px 30px
+  margin: 0 0 20px 0
+  border-radius: 4px
+  overflow: hidden
+
+
+  &::after 
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    height: 100%
+    width: 8px
+    background: #009688 
+
+  &.incorrect
+
+    &::after 
+      background: var(--red)
+
+
+.review-game__txt
+  display: block
+  color: #fff 
+  margin: 0 0 10px 0
+
+.review-game__author
+  color: #fff 
+  font-size: 14px
+
+  span 
+    color: var(--pink)
+    margin: 0 0 0 5px
+
+.review-game__mode
+  position: absolute
+  top: 10px
+  right: 10px
+  background: #9c27b0
+  font-size: 14px
+  border-radius: 4px
+  padding: 3px 5px
+  color: #fff
+  min-width: 110px
+  text-align: center 
+
+
+.review-game__nohistory
+  color: #fff 
+
+    
