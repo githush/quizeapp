@@ -19,3 +19,6 @@ Web Application consists of 3 layers:
 - Presentation Layer
 - Repository Layer/Data Access Layer
 - Domain/Entity Layer
+
+
+Hosted Application: http://khvicha-001-site3.dtempurl.com
