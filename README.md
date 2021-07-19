@@ -11,6 +11,7 @@ Frontend Technologies/Tools:
 - Css
 - Javascript
 - ReactJs
+- Redux(Redux Toolkit)
 - Axios
 
 
