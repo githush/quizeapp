@@ -8,7 +8,7 @@ Backend Technologies:
 
 Frontend Technologies/Tools:
 - Html
-- Css
+- Css(SASS, BEM Methodology)
 - Javascript
 - ReactJs
 - Redux(Redux Toolkit)
